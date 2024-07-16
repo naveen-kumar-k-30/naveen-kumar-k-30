@@ -10,17 +10,17 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 All of my projects are available at [##](##)
+- 👨‍💻 All of my projects are available at [Portfolio](##)
 
-- 📝 I regularly write articles on [##](##)
+- 📝 I regularly write articles on [Notion_Blog](##)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React.Js**
 
 - 📫 How to reach me **naveenkarthikeyan3003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/naveen-kumar-k-3o/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naveen-kumar-k-3o/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/naveenkumarbe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naveenkumarbe/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
