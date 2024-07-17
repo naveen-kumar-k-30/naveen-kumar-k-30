@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](##)
 
-- 📝 I regularly write articles on [Notion_Blog](##)
+- 📝 I regularly write articles on [Notion_Blog](https://whip-walrus-251.notion.site/My-Library-6f69207593574b1fbd334a4cbb7c8b7b)
 
 - 💬 Ask me about **React.Js**
 
